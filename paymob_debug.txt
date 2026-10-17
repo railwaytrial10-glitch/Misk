@@ -1,3 +1,0 @@
-STATUS: 404
-HEADERS: {'Date': 'Thu, 30 Apr 2026 12:11:56 GMT', 'Content-Type': 'application/json', 'Content-Length': '182', 'Connection': 'keep-alive', 'Server': 'nginx', 'Allow': 'POST, OPTIONS', 'Vary': 'Accept-Language, Cookie, Origin', 'Content-Language': 'en', 'X-Frame-Options': 'ALLOWALL', 'X-Paymob-ID': 'Root=1-69f3470c-4a32f8c41d2b20f513d83045'}
-TEXT: {"detail":"Integration ID/Name does not exist in our system . You can find the list of Integration ID’/Names from Merchant Dashboard under Developers → Payment Integrations Tab"}
